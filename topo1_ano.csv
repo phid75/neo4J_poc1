@@ -1,0 +1,1001 @@
+eqptl_name,eqptl_site,chassis_id,chassis_type,chassis_status,card_id,card_slot_order,card_type,card_status
+allen,Sharonmouth,5837,38184,Active,8075,1,QZ45937-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,5856,12,SVC33631-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,4872,13,IZEH75141-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,9477,14,SIS649-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,2368,17,AZB7-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,1733,18,QZ45937-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,8390,19,HJHH344-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,5607,2,SVC33631-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,515,3,IZEH75141-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,7346,35,AZB7-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,9901,36,HJHH344-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,2712,37,LEP12-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,136,4,SIS649-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,5051,40,VPHH5353-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,7436,7,SVC33631-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,8395,8,IZEH75141-FAKE,Active
+allen,Sharonmouth,5837,38184,Active,7267,9,NNO86-FAKE,Active
+allen,Sharonmouth,6397,38184,Active,4721,1,QZ45937-FAKE,Active
+allen,Sharonmouth,6397,38184,Active,1318,12,ROZO8-FAKE,Active
+allen,Sharonmouth,6397,38184,Active,5741,18,QZ45937-FAKE,Active
+allen,Sharonmouth,6397,38184,Active,9301,19,HJHH344-FAKE,Active
+allen,Sharonmouth,6397,38184,Active,780,3,XGM1471-FAKE,Active
+allen,Sharonmouth,6397,38184,Active,2235,36,HJHH344-FAKE,Active
+allen,Sharonmouth,6397,38184,Active,2312,37,LEP12-FAKE,Active
+allen,Sharonmouth,6397,38184,Active,7342,40,VPHH5353-FAKE,Active
+allen,Sharonmouth,6397,38184,Active,4797,6,ROZO8-FAKE,Active
+allen,Sharonmouth,3153,38184,Active,6128,12,ROZO8-FAKE,Active
+allen,Sharonmouth,3153,38184,Active,4945,16,DCWS5846-FAKE,Active
+allen,Sharonmouth,3153,38184,Active,2996,3,ROZO8-FAKE,Active
+allen,Sharonmouth,3153,38184,Active,3585,9,ROZO8-FAKE,Active
+allen,Sharonmouth,3264,38184,Active,724,1,QZ45937-FAKE,Active
+allen,Sharonmouth,3264,38184,Active,6511,12,UT113-FAKE,Active
+allen,Sharonmouth,3264,38184,Active,6444,17,FCHP89722-FAKE,Active
+allen,Sharonmouth,3264,38184,Active,9725,18,QZ45937-FAKE,Active
+allen,Sharonmouth,3264,38184,Active,4715,19,HJHH344-FAKE,Active
+allen,Sharonmouth,3264,38184,Active,8851,36,HJHH344-FAKE,Active
+allen,Sharonmouth,3264,38184,Active,2599,37,LEP12-FAKE,Active
+allen,Sharonmouth,3264,38184,Active,5436,5,RXO76-FAKE,Active
+allen,Sharonmouth,3264,38184,Active,1509,7,RXO76-FAKE,Active
+allen,Sharonmouth,3264,38184,Active,7095,9,ROZO8-FAKE,Active
+allen,Sharonmouth,2710,38184,Active,7058,1,QZ45937-FAKE,Active
+allen,Sharonmouth,2710,38184,Active,8373,12,DCWS5846-FAKE,Active
+allen,Sharonmouth,2710,38184,Active,2343,14,UT113-FAKE,Active
+allen,Sharonmouth,2710,38184,Active,1575,16,XGM1471-FAKE,Active
+allen,Sharonmouth,2710,38184,Active,452,18,QZ45937-FAKE,Active
+allen,Sharonmouth,2710,38184,Active,1916,19,HJHH344-FAKE,Active
+allen,Sharonmouth,2710,38184,Active,2944,2,FCHP89722-FAKE,Active
+allen,Sharonmouth,2710,38184,Active,6226,36,HJHH344-FAKE,Active
+allen,Sharonmouth,2710,38184,Active,4581,37,LEP12-FAKE,Active
+allen,Sharonmouth,2710,38184,Active,7832,4,DCWS5846-FAKE,Active
+allen,Sharonmouth,2710,38184,Active,5672,6,XGM1471-FAKE,Active
+allen,Sharonmouth,9429,38184,Active,6975,1,QZ45937-FAKE,Active
+allen,Sharonmouth,9429,38184,Active,4969,12,RXO76-FAKE,Active
+allen,Sharonmouth,9429,38184,Active,1794,14,XGM1471-FAKE,Active
+allen,Sharonmouth,9429,38184,Active,5823,18,QZ45937-FAKE,Active
+allen,Sharonmouth,9429,38184,Active,9526,19,HJHH344-FAKE,Active
+allen,Sharonmouth,9429,38184,Active,8990,36,HJHH344-FAKE,Active
+allen,Sharonmouth,9429,38184,Active,504,37,LEP12-FAKE,Active
+allen,Sharonmouth,9429,38184,Active,4927,4,XGM1471-FAKE,Active
+allen,Sharonmouth,9429,38184,Active,2479,6,XGM1471-FAKE,Active
+allen,Sharonmouth,9429,38184,Active,7426,8,UT113-FAKE,Active
+allen,Sharonmouth,6120,38184,Active,5796,1,QZ45937-FAKE,Active
+allen,Sharonmouth,6120,38184,Active,390,17,AZB7-FAKE,Active
+allen,Sharonmouth,6120,38184,Active,4762,18,QZ45937-FAKE,Active
+allen,Sharonmouth,6120,38184,Active,4699,19,HJHH344-FAKE,Active
+allen,Sharonmouth,6120,38184,Active,1682,2,SVC33631-FAKE,Active
+allen,Sharonmouth,6120,38184,Active,9077,3,IZEH75141-FAKE,Active
+allen,Sharonmouth,6120,38184,Active,9937,36,HJHH344-FAKE,Active
+allen,Sharonmouth,6120,38184,Active,4880,37,LEP12-FAKE,Active
+allen,Sharonmouth,6120,38184,Active,5162,4,NNO86-FAKE,Active
+allen,Sharonmouth,6120,38184,Active,3687,40,VPHH5353-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,3012,10,UI99-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,2422,12,BO8368-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,1218,13,UC14434-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,2489,14,UI99-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,5455,16,OXX2543-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,8577,17,OD22-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,3568,18,BO8368-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,8227,19,NYB1-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,9968,2,NYB1-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,9809,20,NYB1-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,551,21,NYB1-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,1228,23,LJ37369-FAKE,Planned
+jones,Sharonmouth,6352,92306,Active,3653,3,NYB1-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,145,4,NYB1-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,5738,40,LJ37369-FAKE,Planned
+jones,Sharonmouth,6352,92306,Active,4121,41,LEP12-FAKE,Planned
+jones,Sharonmouth,6352,92306,Active,4276,44,XUBW41936-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,9682,45,XUBW41936-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,5646,5,OD22-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,1640,6,OXX2543-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,6514,7,OXX2543-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,2579,8,UC14434-FAKE,Active
+jones,Sharonmouth,6352,92306,Active,9351,9,BO8368-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,2225,1,QZ45937-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,5664,12,SVC33631-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,348,13,IZEH75141-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,7821,14,NNO86-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,3569,17,WX78-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,3889,18,QZ45937-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,842,19,HJHH344-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,807,2,SVC33631-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,3168,3,IZEH75141-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,8596,36,HJHH344-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,8516,37,LEP12-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,1082,4,SIS649-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,2128,40,VPHH5353-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,1056,7,SVC33631-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,6812,8,IZEH75141-FAKE,Active
+peterson,Hernandezbury,1780,38184,Active,1700,9,NNO86-FAKE,Active
+peterson,Hernandezbury,2643,38184,Active,8988,1,QZ45937-FAKE,Active
+peterson,Hernandezbury,2643,38184,Active,4699,15,XGM1471-FAKE,Active
+peterson,Hernandezbury,2643,38184,Active,5189,18,QZ45937-FAKE,Active
+peterson,Hernandezbury,2643,38184,Active,4882,19,HJHH344-FAKE,Active
+peterson,Hernandezbury,2643,38184,Active,2838,2,FCHP89722-FAKE,Active
+peterson,Hernandezbury,2643,38184,Active,3055,3,XGM1471-FAKE,Active
+peterson,Hernandezbury,2643,38184,Active,9179,36,HJHH344-FAKE,Active
+peterson,Hernandezbury,2643,38184,Active,7288,37,LEP12-FAKE,Active
+peterson,Hernandezbury,2643,38184,Active,2705,40,VPHH5353-FAKE,Active
+peterson,Hernandezbury,2643,38184,Active,5657,6,ROZO8-FAKE,Active
+peterson,Hernandezbury,2643,38184,Active,115,9,ROZO8-FAKE,Active
+peterson,Hernandezbury,722,38184,Active,7945,1,QZ45937-FAKE,Active
+peterson,Hernandezbury,722,38184,Active,3183,12,DCWS5846-FAKE,Active
+peterson,Hernandezbury,722,38184,Active,5920,14,DCWS5846-FAKE,Active
+peterson,Hernandezbury,722,38184,Active,9799,18,QZ45937-FAKE,Active
+peterson,Hernandezbury,722,38184,Active,804,19,HJHH344-FAKE,Active
+peterson,Hernandezbury,722,38184,Active,191,36,HJHH344-FAKE,Active
+peterson,Hernandezbury,722,38184,Active,535,37,LEP12-FAKE,Active
+peterson,Hernandezbury,722,38184,Active,6432,4,UT113-FAKE,Active
+peterson,Hernandezbury,722,38184,Active,103,6,DCWS5846-FAKE,Active
+peterson,Hernandezbury,6081,38184,Active,7564,1,QZ45937-FAKE,Active
+peterson,Hernandezbury,6081,38184,Active,4916,12,UT113-FAKE,Active
+peterson,Hernandezbury,6081,38184,Active,9028,14,RXO76-FAKE,Active
+peterson,Hernandezbury,6081,38184,Active,9291,16,XGM1471-FAKE,Active
+peterson,Hernandezbury,6081,38184,Active,1794,18,QZ45937-FAKE,Active
+peterson,Hernandezbury,6081,38184,Active,3809,19,HJHH344-FAKE,Active
+peterson,Hernandezbury,6081,38184,Active,7000,2,FCHP89722-FAKE,Active
+peterson,Hernandezbury,6081,38184,Active,543,36,HJHH344-FAKE,Active
+peterson,Hernandezbury,6081,38184,Active,8631,37,LEP12-FAKE,Active
+peterson,Hernandezbury,6081,38184,Active,5538,4,RXO76-FAKE,Active
+peterson,Hernandezbury,6081,38184,Active,6116,6,UT113-FAKE,Active
+peterson,Hernandezbury,6081,38184,Active,7527,8,UT113-FAKE,Active
+peterson,Hernandezbury,8955,38184,Active,4156,10,RXO76-FAKE,Active
+peterson,Hernandezbury,8955,38184,Active,8109,12,XGM1471-FAKE,Active
+peterson,Hernandezbury,8955,38184,Active,9218,14,XGM1471-FAKE,Active
+peterson,Hernandezbury,8955,38184,Active,5439,16,UT113-FAKE,Active
+peterson,Hernandezbury,8955,38184,Active,6686,8,UT113-FAKE,Active
+peterson,Hernandezbury,4468,38184,Active,3835,1,QZ45937-FAKE,Active
+peterson,Hernandezbury,4468,38184,Active,457,17,KXZ137-FAKE,Active
+peterson,Hernandezbury,4468,38184,Active,2394,18,QZ45937-FAKE,Active
+peterson,Hernandezbury,4468,38184,Active,5283,19,HJHH344-FAKE,Active
+peterson,Hernandezbury,4468,38184,Active,5453,2,SVC33631-FAKE,Active
+peterson,Hernandezbury,4468,38184,Active,8378,3,IZEH75141-FAKE,Active
+peterson,Hernandezbury,4468,38184,Active,6410,36,HJHH344-FAKE,Active
+peterson,Hernandezbury,4468,38184,Active,8238,37,LEP12-FAKE,Active
+peterson,Hernandezbury,4468,38184,Active,2788,4,NNO86-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,1713,12,BO8368-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,6792,13,UC14434-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,4010,16,LEQC22-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,3864,17,OXX2543-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,4535,18,OXX2543-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,9458,2,NYB1-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,4155,20,NYB1-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,5781,21,NYB1-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,2466,23,LJ37369-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,7796,3,NYB1-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,3811,40,LJ37369-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,7728,41,LEP12-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,4803,44,XUBW41936-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,2956,45,XUBW41936-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,215,5,BO8368-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,3929,6,OXX2543-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,8425,7,LEQC22-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,9854,8,UC14434-FAKE,Active
+garcia,Hernandezbury,2800,92306,Active,3378,9,BO8368-FAKE,Active
+walker,Scotthaven,4356,31930,Active,3271,1,HJHH344-FAKE,Active
+walker,Scotthaven,4356,31930,Active,9564,10,VPHH5353-FAKE,Active
+walker,Scotthaven,4356,31930,Active,9331,11,HJHH344-FAKE,Active
+walker,Scotthaven,4356,31930,Active,1875,12,QZ45937-FAKE,Active
+walker,Scotthaven,4356,31930,Active,9237,2,QZ45937-FAKE,Active
+walker,Scotthaven,4356,31930,Active,6262,21,LEP12-FAKE,Active
+walker,Scotthaven,4356,31930,Active,9790,3,SVC33631-FAKE,Active
+walker,Scotthaven,4356,31930,Active,6498,4,SVC33631-FAKE,Active
+ford,New Melissaview,2495,31930,Active,3853,1,HJHH344-FAKE,Active
+ford,New Melissaview,2495,31930,Active,6397,10,VPHH5353-FAKE,Active
+ford,New Melissaview,2495,31930,Active,2412,11,HJHH344-FAKE,Active
+ford,New Melissaview,2495,31930,Active,6879,12,QZ45937-FAKE,Active
+ford,New Melissaview,2495,31930,Active,76,2,QZ45937-FAKE,Active
+ford,New Melissaview,2495,31930,Active,2608,21,LEP12-FAKE,Active
+ford,New Melissaview,2495,31930,Active,7751,3,SVC33631-FAKE,Active
+ford,New Melissaview,2495,31930,Active,8704,4,IZEH75141-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,9745,1,QZ45937-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,6016,12,IZEH75141-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,402,13,IZEH75141-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,1676,14,NNO86-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,421,17,WX78-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,3084,18,QZ45937-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,910,19,HJHH344-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,7948,2,IZEH75141-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,9452,3,IZEH75141-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,3665,35,WX78-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,9705,36,HJHH344-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,6393,37,LEP12-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,9444,4,NNO86-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,6388,40,VPHH5353-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,1349,7,SVC33631-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,1552,8,IZEH75141-FAKE,Active
+bowman-arias,Wendyhaven,6562,38184,Active,5112,9,NNO86-FAKE,Active
+bowman-arias,Wendyhaven,2605,38184,Active,7108,1,QZ45937-FAKE,Active
+bowman-arias,Wendyhaven,2605,38184,Active,7566,12,UT113-FAKE,Active
+bowman-arias,Wendyhaven,2605,38184,Active,3390,14,XGM1471-FAKE,Active
+bowman-arias,Wendyhaven,2605,38184,Active,1362,16,XGM1471-FAKE,Active
+bowman-arias,Wendyhaven,2605,38184,Active,3393,18,QZ45937-FAKE,Active
+bowman-arias,Wendyhaven,2605,38184,Active,5709,19,HJHH344-FAKE,Active
+bowman-arias,Wendyhaven,2605,38184,Active,7547,2,FCHP89722-FAKE,Active
+bowman-arias,Wendyhaven,2605,38184,Active,4463,36,HJHH344-FAKE,Active
+bowman-arias,Wendyhaven,2605,38184,Active,350,37,LEP12-FAKE,Active
+bowman-arias,Wendyhaven,2605,38184,Active,7938,4,XGM1471-FAKE,Active
+bowman-arias,Wendyhaven,2605,38184,Active,9913,40,VPHH5353-FAKE,Active
+bowman-arias,Wendyhaven,2605,38184,Active,4065,6,ROZO8-FAKE,Active
+bowman-arias,Wendyhaven,4122,38184,Active,360,1,QZ45937-FAKE,Active
+bowman-arias,Wendyhaven,4122,38184,Active,5215,11,XGM1471-FAKE,Active
+bowman-arias,Wendyhaven,4122,38184,Active,2063,15,DCWS5846-FAKE,Active
+bowman-arias,Wendyhaven,4122,38184,Active,8023,18,QZ45937-FAKE,Active
+bowman-arias,Wendyhaven,4122,38184,Active,8486,19,HJHH344-FAKE,Active
+bowman-arias,Wendyhaven,4122,38184,Active,9762,36,HJHH344-FAKE,Active
+bowman-arias,Wendyhaven,4122,38184,Active,4687,37,LEP12-FAKE,Active
+bowman-arias,Wendyhaven,4122,38184,Active,4786,4,DCWS5846-FAKE,Active
+bowman-arias,Wendyhaven,4122,38184,Active,6957,40,VPHH5353-FAKE,Active
+bowman-arias,Wendyhaven,4122,38184,Active,1404,6,XGM1471-FAKE,Active
+bowman-arias,Wendyhaven,4122,38184,Active,9537,8,XGM1471-FAKE,Active
+bowman-arias,Wendyhaven,1376,38184,Active,5907,1,QZ45937-FAKE,Active
+bowman-arias,Wendyhaven,1376,38184,Active,9721,10,DCWS5846-FAKE,Active
+bowman-arias,Wendyhaven,1376,38184,Active,1203,12,UT113-FAKE,Active
+bowman-arias,Wendyhaven,1376,38184,Active,3893,14,RXO76-FAKE,Active
+bowman-arias,Wendyhaven,1376,38184,Active,5814,18,QZ45937-FAKE,Active
+bowman-arias,Wendyhaven,1376,38184,Active,4355,19,HJHH344-FAKE,Active
+bowman-arias,Wendyhaven,1376,38184,Active,7311,2,FCHP89722-FAKE,Active
+bowman-arias,Wendyhaven,1376,38184,Active,3217,36,HJHH344-FAKE,Active
+bowman-arias,Wendyhaven,1376,38184,Active,559,37,LEP12-FAKE,Active
+bowman-arias,Wendyhaven,1376,38184,Active,3423,4,XGM1471-FAKE,Active
+bowman-arias,Wendyhaven,1376,38184,Active,3785,6,RXO76-FAKE,Active
+bowman-arias,Wendyhaven,1376,38184,Active,5483,8,UT113-FAKE,Active
+bowman-arias,Wendyhaven,5995,38184,Active,2871,1,QZ45937-FAKE,Active
+bowman-arias,Wendyhaven,5995,38184,Active,3389,12,XGM1471-FAKE,Active
+bowman-arias,Wendyhaven,5995,38184,Active,859,14,XGM1471-FAKE,Active
+bowman-arias,Wendyhaven,5995,38184,Active,7985,16,XGM1471-FAKE,Active
+bowman-arias,Wendyhaven,5995,38184,Active,6351,18,QZ45937-FAKE,Active
+bowman-arias,Wendyhaven,5995,38184,Active,3275,19,HJHH344-FAKE,Active
+bowman-arias,Wendyhaven,5995,38184,Active,4638,36,HJHH344-FAKE,Active
+bowman-arias,Wendyhaven,5995,38184,Active,7382,37,LEP12-FAKE,Active
+bowman-arias,Wendyhaven,5995,38184,Active,2791,6,XGM1471-FAKE,Active
+bowman-arias,Wendyhaven,5995,38184,Active,2229,8,XGM1471-FAKE,Active
+bowman-arias,Wendyhaven,2488,38184,Active,5717,1,QZ45937-FAKE,Active
+bowman-arias,Wendyhaven,2488,38184,Active,2377,12,XGM1471-FAKE,Active
+bowman-arias,Wendyhaven,2488,38184,Active,7190,18,QZ45937-FAKE,Active
+bowman-arias,Wendyhaven,2488,38184,Active,4476,19,HJHH344-FAKE,Active
+bowman-arias,Wendyhaven,2488,38184,Active,3859,36,HJHH344-FAKE,Active
+bowman-arias,Wendyhaven,2488,38184,Active,5716,37,LEP12-FAKE,Active
+bowman-arias,Wendyhaven,2488,38184,Active,5477,40,VPHH5353-FAKE,Active
+bowman-arias,Wendyhaven,2488,38184,Active,9987,8,XGM1471-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,7618,10,UI99-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,9396,12,BO8368-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,1349,13,UC14434-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,4075,14,UI99-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,9571,16,LEQC22-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,5230,17,OXX2543-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,4455,18,NYB1-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,9889,19,OD22-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,1683,2,NYB1-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,1587,20,NYB1-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,7099,21,NYB1-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,5352,23,LJ37369-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,3191,3,NYB1-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,8341,4,OD22-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,5257,40,LJ37369-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,6657,41,LEP12-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,5849,44,XUBW41936-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,9303,45,XUBW41936-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,5441,5,BO8368-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,1847,6,OXX2543-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,9390,7,LEQC22-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,6907,8,UC14434-FAKE,Active
+pittman,Wendyhaven,72,92306,Active,1852,9,BO8368-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,6257,1,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,872,12,SVC33631-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,3063,13,IZEH75141-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,1763,14,NNO86-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,7484,16,XFNJ5272-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,4421,17,WX78-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,5970,18,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,9632,19,HJHH344-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,3987,2,SVC33631-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,2829,3,IZEH75141-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,5419,36,HJHH344-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,8008,37,LEP12-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,5597,4,NNO86-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,2160,40,VPHH5353-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,5448,7,SVC33631-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,7370,8,IZEH75141-FAKE,Active
+morse-moreno,Rodneyland,707,38184,Active,4244,9,NNO86-FAKE,Active
+morse-moreno,Rodneyland,2536,38184,Active,7483,1,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,2536,38184,Active,4130,12,MUI31-FAKE,Active
+morse-moreno,Rodneyland,2536,38184,Active,8240,16,XGM1471-FAKE,Active
+morse-moreno,Rodneyland,2536,38184,Active,6825,18,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,2536,38184,Active,186,19,HJHH344-FAKE,Active
+morse-moreno,Rodneyland,2536,38184,Active,9496,2,FCHP89722-FAKE,Active
+morse-moreno,Rodneyland,2536,38184,Active,768,3,XGM1471-FAKE,Active
+morse-moreno,Rodneyland,2536,38184,Active,744,36,HJHH344-FAKE,Active
+morse-moreno,Rodneyland,2536,38184,Active,586,37,LEP12-FAKE,Active
+morse-moreno,Rodneyland,2536,38184,Active,613,40,VPHH5353-FAKE,Active
+morse-moreno,Rodneyland,2536,38184,Active,7063,6,ROZO8-FAKE,Active
+morse-moreno,Rodneyland,2536,38184,Active,5750,9,ROZO8-FAKE,Active
+morse-moreno,Rodneyland,3276,38184,Active,4663,1,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,3276,38184,Active,4716,10,DCWS5846-FAKE,Active
+morse-moreno,Rodneyland,3276,38184,Active,3670,12,DCWS5846-FAKE,Active
+morse-moreno,Rodneyland,3276,38184,Active,9864,14,RXO76-FAKE,Active
+morse-moreno,Rodneyland,3276,38184,Active,4637,18,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,3276,38184,Active,410,19,HJHH344-FAKE,Active
+morse-moreno,Rodneyland,3276,38184,Active,1648,2,RXO76-FAKE,Active
+morse-moreno,Rodneyland,3276,38184,Active,6016,36,HJHH344-FAKE,Active
+morse-moreno,Rodneyland,3276,38184,Active,6783,37,LEP12-FAKE,Active
+morse-moreno,Rodneyland,3276,38184,Active,1448,4,RXO76-FAKE,Active
+morse-moreno,Rodneyland,3276,38184,Active,7370,6,DCWS5846-FAKE,Active
+morse-moreno,Rodneyland,3276,38184,Active,674,8,DCWS5846-FAKE,Active
+morse-moreno,Rodneyland,3044,38184,Active,1124,1,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,3044,38184,Active,1490,10,RXO76-FAKE,Active
+morse-moreno,Rodneyland,3044,38184,Active,1167,12,UT113-FAKE,Active
+morse-moreno,Rodneyland,3044,38184,Active,7342,14,UT113-FAKE,Active
+morse-moreno,Rodneyland,3044,38184,Active,1042,18,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,3044,38184,Active,8716,19,HJHH344-FAKE,Active
+morse-moreno,Rodneyland,3044,38184,Active,5702,2,FCHP89722-FAKE,Active
+morse-moreno,Rodneyland,3044,38184,Active,6673,36,HJHH344-FAKE,Active
+morse-moreno,Rodneyland,3044,38184,Active,5495,37,LEP12-FAKE,Active
+morse-moreno,Rodneyland,3044,38184,Active,5666,5,UT113-FAKE,Active
+morse-moreno,Rodneyland,3044,38184,Active,4509,7,UT113-FAKE,Active
+morse-moreno,Rodneyland,139,38184,Active,7161,1,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,139,38184,Active,7239,11,UT113-FAKE,Active
+morse-moreno,Rodneyland,139,38184,Active,9039,13,XGM1471-FAKE,Active
+morse-moreno,Rodneyland,139,38184,Active,2078,18,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,139,38184,Active,5859,19,HJHH344-FAKE,Active
+morse-moreno,Rodneyland,139,38184,Active,9965,36,HJHH344-FAKE,Active
+morse-moreno,Rodneyland,139,38184,Active,7390,37,LEP12-FAKE,Active
+morse-moreno,Rodneyland,139,38184,Active,5196,4,XGM1471-FAKE,Active
+morse-moreno,Rodneyland,139,38184,Active,1505,6,XGM1471-FAKE,Active
+morse-moreno,Rodneyland,139,38184,Active,4804,8,XGM1471-FAKE,Active
+morse-moreno,Rodneyland,375,38184,Active,4910,1,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,375,38184,Active,8971,17,AZB7-FAKE,Active
+morse-moreno,Rodneyland,375,38184,Active,540,18,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,375,38184,Active,2513,19,HJHH344-FAKE,Active
+morse-moreno,Rodneyland,375,38184,Active,8851,2,SVC33631-FAKE,Active
+morse-moreno,Rodneyland,375,38184,Active,9478,3,IZEH75141-FAKE,Active
+morse-moreno,Rodneyland,375,38184,Active,7809,36,HJHH344-FAKE,Active
+morse-moreno,Rodneyland,375,38184,Active,7276,37,LEP12-FAKE,Active
+morse-moreno,Rodneyland,375,38184,Active,7511,4,NNO86-FAKE,Active
+morse-moreno,Rodneyland,375,38184,Active,1218,40,VPHH5353-FAKE,Active
+morse-moreno,Rodneyland,3258,38184,Active,2537,1,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,3258,38184,Active,6001,12,XGM1471-FAKE,Active
+morse-moreno,Rodneyland,3258,38184,Active,6120,18,QZ45937-FAKE,Active
+morse-moreno,Rodneyland,3258,38184,Active,3597,19,HJHH344-FAKE,Active
+morse-moreno,Rodneyland,3258,38184,Active,1738,36,HJHH344-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,8485,12,BO8368-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,3420,13,UC14434-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,4066,16,OXX2543-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,5036,19,NYB1-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,9990,2,NYB1-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,1595,20,NYB1-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,9095,21,NYB1-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,4502,3,NYB1-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,2893,40,LJ37369-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,6464,41,LEP12-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,9595,44,XUBW41936-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,4505,45,XUBW41936-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,2197,7,OXX2543-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,1784,8,UC14434-FAKE,Active
+garcia-boone,Rodneyland,6477,92306,Active,9342,9,BO8368-FAKE,Active
+hubbard,East Kevinborough,8525,31930,Active,835,1,HJHH344-FAKE,Active
+hubbard,East Kevinborough,8525,31930,Active,4248,10,VPHH5353-FAKE,Active
+hubbard,East Kevinborough,8525,31930,Active,2055,11,HJHH344-FAKE,Active
+hubbard,East Kevinborough,8525,31930,Active,2762,12,QZ45937-FAKE,Active
+hubbard,East Kevinborough,8525,31930,Active,9699,2,QZ45937-FAKE,Active
+hubbard,East Kevinborough,8525,31930,Active,5868,21,LEP12-FAKE,Active
+hubbard,East Kevinborough,8525,31930,Active,9280,3,SVC33631-FAKE,Active
+hubbard,East Kevinborough,8525,31930,Active,905,4,SVC33631-FAKE,Active
+gomez,Port Jaime,5486,31930,Active,7568,1,HJHH344-FAKE,Active
+gomez,Port Jaime,5486,31930,Active,2668,10,VPHH5353-FAKE,Active
+gomez,Port Jaime,5486,31930,Active,9201,11,HJHH344-FAKE,Active
+gomez,Port Jaime,5486,31930,Active,1507,12,QZ45937-FAKE,Active
+gomez,Port Jaime,5486,31930,Active,8309,2,QZ45937-FAKE,Active
+gomez,Port Jaime,5486,31930,Active,9005,21,LEP12-FAKE,Active
+gomez,Port Jaime,5486,31930,Active,5459,3,SVC33631-FAKE,Active
+gomez,Port Jaime,5486,31930,Active,2994,4,IZEH75141-FAKE,Active
+bryan-douglas,Thompsonmouth,7246,31930,Active,1274,1,HJHH344-FAKE,Active
+bryan-douglas,Thompsonmouth,7246,31930,Active,799,10,VPHH5353-FAKE,Active
+bryan-douglas,Thompsonmouth,7246,31930,Active,5519,11,HJHH344-FAKE,Active
+bryan-douglas,Thompsonmouth,7246,31930,Active,4511,12,QZ45937-FAKE,Active
+bryan-douglas,Thompsonmouth,7246,31930,Active,2158,2,QZ45937-FAKE,Active
+bryan-douglas,Thompsonmouth,7246,31930,Active,3119,21,LEP12-FAKE,Active
+bryan-douglas,Thompsonmouth,7246,31930,Active,3051,3,IZEH75141-FAKE,Active
+bryan-douglas,Thompsonmouth,7246,31930,Active,5009,4,IZEH75141-FAKE,Active
+johnson,Lake Laurastad,7421,38302,Active,4112,19,PJJI915-FAKE,Active
+johnson,Mitchellburgh,7421,38302,Active,4112,19,PJJI915-FAKE,Active
+johnson,Lake Laurastad,7421,38302,Active,2015,23,PJJI915-FAKE,Active
+johnson,Mitchellburgh,7421,38302,Active,2015,23,PJJI915-FAKE,Active
+johnson,Lake Laurastad,6617,38302,Active,2066,19,PJJI915-FAKE,Active
+johnson,Mitchellburgh,6617,38302,Active,2066,19,PJJI915-FAKE,Active
+johnson,Mitchellburgh,6617,38302,Active,54,2,OSIU7436-FAKE,Active
+johnson,Lake Laurastad,6617,38302,Active,54,2,OSIU7436-FAKE,Active
+johnson,Mitchellburgh,6617,38302,Active,7007,23,PJJI915-FAKE,Active
+johnson,Lake Laurastad,6617,38302,Active,7007,23,PJJI915-FAKE,Active
+johnson,Lake Laurastad,6617,38302,Active,2713,3,OSIU7436-FAKE,Active
+johnson,Mitchellburgh,6617,38302,Active,2713,3,OSIU7436-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,1060,1,QZ45937-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,8954,12,SVC33631-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,1279,13,IZEH75141-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,1599,14,NNO86-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,8309,17,WX78-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,9623,18,QZ45937-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,386,19,HJHH344-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,5439,2,SVC33631-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,7665,3,IZEH75141-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,522,35,WX78-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,6225,36,HJHH344-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,6628,37,LEP12-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,3513,4,NNO86-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,4136,40,VPHH5353-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,5584,7,SVC33631-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,6946,8,IZEH75141-FAKE,Active
+rodriguez-gibson,New Williamport,1970,38184,Active,5841,9,NNO86-FAKE,Active
+rodriguez-gibson,New Williamport,6827,38184,Active,8169,1,QZ45937-FAKE,Active
+rodriguez-gibson,New Williamport,6827,38184,Active,5663,12,DCWS5846-FAKE,Active
+rodriguez-gibson,New Williamport,6827,38184,Active,5157,14,RXO76-FAKE,Active
+rodriguez-gibson,New Williamport,6827,38184,Active,8978,16,XGM1471-FAKE,Active
+rodriguez-gibson,New Williamport,6827,38184,Active,8594,18,QZ45937-FAKE,Active
+rodriguez-gibson,New Williamport,6827,38184,Active,2822,19,HJHH344-FAKE,Active
+rodriguez-gibson,New Williamport,6827,38184,Active,5420,2,FCHP89722-FAKE,Active
+rodriguez-gibson,New Williamport,6827,38184,Active,7012,3,UT113-FAKE,Active
+rodriguez-gibson,New Williamport,6827,38184,Active,5799,36,HJHH344-FAKE,Active
+rodriguez-gibson,New Williamport,6827,38184,Active,8811,37,LEP12-FAKE,Active
+rodriguez-gibson,New Williamport,6827,38184,Active,811,5,DCWS5846-FAKE,Active
+rodriguez-gibson,New Williamport,6827,38184,Active,4361,7,RXO76-FAKE,Active
+rodriguez-gibson,New Williamport,5935,38184,Active,9487,1,QZ45937-FAKE,Active
+rodriguez-gibson,New Williamport,5935,38184,Active,6050,10,RXO76-FAKE,Active
+rodriguez-gibson,New Williamport,5935,38184,Active,1360,12,UT113-FAKE,Active
+rodriguez-gibson,New Williamport,5935,38184,Active,6200,14,XGM1471-FAKE,Active
+rodriguez-gibson,New Williamport,5935,38184,Active,6146,18,QZ45937-FAKE,Active
+rodriguez-gibson,New Williamport,5935,38184,Active,1347,19,HJHH344-FAKE,Active
+rodriguez-gibson,New Williamport,5935,38184,Active,6173,2,FCHP89722-FAKE,Active
+rodriguez-gibson,New Williamport,5935,38184,Active,9616,36,HJHH344-FAKE,Active
+rodriguez-gibson,New Williamport,5935,38184,Active,5170,6,XGM1471-FAKE,Active
+rodriguez-gibson,New Williamport,5935,38184,Active,6752,8,UT113-FAKE,Active
+rodriguez-gibson,New Williamport,5000,38184,Active,9340,1,QZ45937-FAKE,Active
+rodriguez-gibson,New Williamport,5000,38184,Active,7528,12,XGM1471-FAKE,Active
+rodriguez-gibson,New Williamport,5000,38184,Active,221,18,QZ45937-FAKE,Active
+rodriguez-gibson,New Williamport,5000,38184,Active,9451,19,HJHH344-FAKE,Active
+rodriguez-gibson,New Williamport,5000,38184,Active,1490,36,HJHH344-FAKE,Active
+rodriguez-gibson,New Williamport,5000,38184,Active,5861,6,XGM1471-FAKE,Active
+rodriguez-gibson,New Williamport,5365,38184,Active,3423,1,QZ45937-FAKE,Active
+rodriguez-gibson,New Williamport,5365,38184,Active,675,18,QZ45937-FAKE,Active
+rodriguez-gibson,New Williamport,5365,38184,Active,9382,19,HJHH344-FAKE,Active
+rodriguez-gibson,New Williamport,5365,38184,Active,3475,36,HJHH344-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,1409,12,BO8368-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,7255,13,UC14434-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,4846,16,OXX2543-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,5500,2,NYB1-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,7770,20,NYB1-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,7516,21,NYB1-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,3508,3,NYB1-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,1205,40,LJ37369-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,6057,41,LEP12-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,5004,44,XUBW41936-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,9802,45,XUBW41936-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,5748,6,BO8368-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,5422,7,OXX2543-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,4816,8,UC14434-FAKE,Active
+bruce-bennett,New Williamport,340,92306,Active,1299,9,BO8368-FAKE,Active
+morse-moreno,Aguilarshire,5378,38184,Active,6376,1,QZ45937-FAKE,Active
+morse-moreno,Aguilarshire,5378,38184,Active,3828,17,WX78-FAKE,Active
+morse-moreno,Aguilarshire,5378,38184,Active,4975,18,QZ45937-FAKE,Active
+morse-moreno,Aguilarshire,5378,38184,Active,1928,19,HJHH344-FAKE,Active
+morse-moreno,Aguilarshire,5378,38184,Active,2905,2,SVC33631-FAKE,Active
+morse-moreno,Aguilarshire,5378,38184,Active,1299,3,IZEH75141-FAKE,Active
+morse-moreno,Aguilarshire,5378,38184,Active,4410,36,HJHH344-FAKE,Active
+morse-moreno,Aguilarshire,5378,38184,Active,7036,37,LEP12-FAKE,Active
+morse-moreno,Aguilarshire,5378,38184,Active,5017,4,NNO86-FAKE,Active
+morse-moreno,Aguilarshire,5378,38184,Active,1730,40,VPHH5353-FAKE,Active
+morse-moreno,Aguilarshire,5378,38184,Active,1250,7,SVC33631-FAKE,Active
+morse-moreno,Aguilarshire,5378,38184,Active,4147,8,IZEH75141-FAKE,Active
+morse-moreno,Aguilarshire,5378,38184,Active,7078,9,NNO86-FAKE,Active
+morse-moreno,Aguilarshire,6460,38184,Active,9161,1,QZ45937-FAKE,Active
+morse-moreno,Aguilarshire,6460,38184,Active,5307,12,DCWS5846-FAKE,Active
+morse-moreno,Aguilarshire,6460,38184,Active,3887,14,UT113-FAKE,Active
+morse-moreno,Aguilarshire,6460,38184,Active,1549,18,QZ45937-FAKE,Active
+morse-moreno,Aguilarshire,6460,38184,Active,592,19,HJHH344-FAKE,Active
+morse-moreno,Aguilarshire,6460,38184,Active,6718,2,FCHP89722-FAKE,Active
+morse-moreno,Aguilarshire,6460,38184,Active,8727,20,FCHP89722-FAKE,Active
+morse-moreno,Aguilarshire,6460,38184,Active,4368,3,RXO76-FAKE,Active
+morse-moreno,Aguilarshire,6460,38184,Active,6514,36,HJHH344-FAKE,Active
+morse-moreno,Aguilarshire,6460,38184,Active,4535,37,LEP12-FAKE,Active
+morse-moreno,Aguilarshire,6460,38184,Active,1072,5,UT113-FAKE,Active
+morse-moreno,Aguilarshire,6460,38184,Active,4027,7,RXO76-FAKE,Active
+morse-moreno,Aguilarshire,4155,38184,Active,4123,1,QZ45937-FAKE,Planned
+morse-moreno,Aguilarshire,4155,38184,Active,7081,18,QZ45937-FAKE,Active
+morse-moreno,Aguilarshire,4155,38184,Active,8681,19,HJHH344-FAKE,Active
+morse-moreno,Aguilarshire,4155,38184,Active,5891,36,HJHH344-FAKE,Active
+morse-moreno,Aguilarshire,4155,38184,Active,7060,8,XGM1471-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,2284,12,BO8368-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,4840,13,UC14434-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,5908,16,LEQC22-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,8762,17,OXX2543-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,5934,2,NYB1-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,3174,20,NYB1-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,3491,21,NYB1-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,6639,3,NYB1-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,684,40,LJ37369-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,3784,41,LEP12-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,5781,44,XUBW41936-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,8084,45,XUBW41936-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,8920,6,OXX2543-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,2934,7,LEQC22-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,8789,8,UC14434-FAKE,Active
+lowe,Aguilarshire,4027,92306,Active,3029,9,BO8368-FAKE,Active
+smith,North Jameston,9000,31930,Active,4836,1,HJHH344-FAKE,Active
+smith,North Jameston,9000,31930,Active,4081,10,VPHH5353-FAKE,Active
+smith,North Jameston,9000,31930,Active,1297,11,HJHH344-FAKE,Active
+smith,North Jameston,9000,31930,Active,8875,12,QZ45937-FAKE,Active
+smith,North Jameston,9000,31930,Active,3379,2,QZ45937-FAKE,Active
+smith,North Jameston,9000,31930,Active,2599,21,LEP12-FAKE,Active
+smith,North Jameston,9000,31930,Active,9882,3,SVC33631-FAKE,Active
+smith,North Jameston,9000,31930,Active,4117,4,SVC33631-FAKE,Active
+rubio-williamson,Lake Julie,3579,31930,Active,1591,1,HJHH344-FAKE,Active
+rubio-williamson,Lake Julie,3579,31930,Active,3668,10,VPHH5353-FAKE,Active
+rubio-williamson,Lake Julie,3579,31930,Active,1500,11,HJHH344-FAKE,Active
+rubio-williamson,Lake Julie,3579,31930,Active,8329,12,QZ45937-FAKE,Active
+rubio-williamson,Lake Julie,3579,31930,Active,7890,2,QZ45937-FAKE,Active
+rubio-williamson,Lake Julie,3579,31930,Active,8705,21,LEP12-FAKE,Active
+rubio-williamson,Lake Julie,3579,31930,Active,830,3,SVC33631-FAKE,Active
+rubio-williamson,Lake Julie,3579,31930,Active,1737,4,SVC33631-FAKE,Active
+sharp-wu,West Katrina,3930,31930,Active,7303,1,HJHH344-FAKE,Active
+sharp-wu,West Katrina,3930,31930,Active,4766,10,VPHH5353-FAKE,Active
+sharp-wu,West Katrina,3930,31930,Active,2542,11,HJHH344-FAKE,Active
+sharp-wu,West Katrina,3930,31930,Active,7474,12,QZ45937-FAKE,Active
+sharp-wu,West Katrina,3930,31930,Active,2643,2,QZ45937-FAKE,Active
+sharp-wu,West Katrina,3930,31930,Active,6129,21,LEP12-FAKE,Active
+sharp-wu,West Katrina,3930,31930,Active,6557,3,SVC33631-FAKE,Active
+sharp-wu,West Katrina,3930,31930,Active,7198,4,IZEH75141-FAKE,Active
+harvey,West Timothyville,5199,31930,Active,4467,1,HJHH344-FAKE,Active
+harvey,West Timothyville,5199,31930,Active,2051,10,VPHH5353-FAKE,Active
+harvey,West Timothyville,5199,31930,Active,1032,11,HJHH344-FAKE,Active
+harvey,West Timothyville,5199,31930,Active,9782,12,QZ45937-FAKE,Active
+harvey,West Timothyville,5199,31930,Active,6605,2,QZ45937-FAKE,Active
+harvey,West Timothyville,5199,31930,Active,6229,21,LEP12-FAKE,Active
+harvey,West Timothyville,5199,31930,Active,6090,3,IZEH75141-FAKE,Active
+harvey,West Timothyville,5199,31930,Active,5300,4,IZEH75141-FAKE,Active
+harvey,West Timothyville,5199,31930,Active,9716,7,XFNJ5272-FAKE,Active
+david,East James,7366,38184,Active,8008,1,QZ45937-FAKE,Active
+david,East James,7366,38184,Active,8421,12,SVC33631-FAKE,Active
+david,East James,7366,38184,Active,164,13,IZEH75141-FAKE,Active
+david,East James,7366,38184,Active,2404,14,NNO86-FAKE,Active
+david,East James,7366,38184,Active,7509,17,WX78-FAKE,Active
+david,East James,7366,38184,Active,9469,18,QZ45937-FAKE,Active
+david,East James,7366,38184,Active,7444,19,HJHH344-FAKE,Active
+david,East James,7366,38184,Active,752,2,IZEH75141-FAKE,Active
+david,East James,7366,38184,Active,1150,3,IZEH75141-FAKE,Active
+david,East James,7366,38184,Active,9487,35,WX78-FAKE,Active
+david,East James,7366,38184,Active,7521,36,HJHH344-FAKE,Active
+david,East James,7366,38184,Active,5881,37,LEP12-FAKE,Active
+david,East James,7366,38184,Active,9332,4,NNO86-FAKE,Active
+david,East James,7366,38184,Active,539,40,VPHH5353-FAKE,Active
+david,East James,7366,38184,Active,2587,6,XFNJ5272-FAKE,Active
+david,East James,7366,38184,Active,5266,7,SVC33631-FAKE,Active
+david,East James,7366,38184,Active,7860,8,IZEH75141-FAKE,Active
+david,East James,7366,38184,Active,1426,9,NNO86-FAKE,Active
+david,East James,9772,38184,Active,4250,1,QZ45937-FAKE,Active
+david,East James,9772,38184,Active,1870,12,ROZO8-FAKE,Active
+david,East James,9772,38184,Active,5579,15,XGM1471-FAKE,Active
+david,East James,9772,38184,Active,9677,18,QZ45937-FAKE,Active
+david,East James,9772,38184,Active,6577,19,HJHH344-FAKE,Active
+david,East James,9772,38184,Active,423,2,FCHP89722-FAKE,Active
+david,East James,9772,38184,Active,9473,20,FCHP89722-FAKE,Active
+david,East James,9772,38184,Active,4285,3,ROZO8-FAKE,Active
+david,East James,9772,38184,Active,2571,36,HJHH344-FAKE,Active
+david,East James,9772,38184,Active,8340,37,LEP12-FAKE,Active
+david,East James,9772,38184,Active,5481,40,VPHH5353-FAKE,Active
+david,East James,9772,38184,Active,8053,6,ROZO8-FAKE,Active
+david,East James,9772,38184,Active,1795,9,ROZO8-FAKE,Active
+david,East James,1503,38184,Active,64,1,QZ45937-FAKE,Active
+david,East James,1503,38184,Active,6087,18,QZ45937-FAKE,Active
+david,East James,1503,38184,Active,8332,19,HJHH344-FAKE,Active
+david,East James,1503,38184,Active,712,36,HJHH344-FAKE,Active
+david,East James,1503,38184,Active,4585,37,LEP12-FAKE,Active
+david,East James,1503,38184,Active,7117,40,VPHH5353-FAKE,Active
+david,East James,4909,38184,Active,1827,1,QZ45937-FAKE,Active
+david,East James,4909,38184,Active,6066,12,JUES74933-FAKE,Active
+david,East James,4909,38184,Active,9319,13,JUES74933-FAKE,Active
+david,East James,4909,38184,Active,5562,14,JUES74933-FAKE,Active
+david,East James,4909,38184,Active,418,15,JUES74933-FAKE,Active
+david,East James,4909,38184,Active,814,16,JUES74933-FAKE,Active
+david,East James,4909,38184,Active,9484,17,AZB7-FAKE,Active
+david,East James,4909,38184,Active,1817,18,QZ45937-FAKE,Active
+david,East James,4909,38184,Active,6733,19,HJHH344-FAKE,Active
+david,East James,4909,38184,Active,5886,2,SVC33631-FAKE,Active
+david,East James,4909,38184,Active,2366,3,IZEH75141-FAKE,Active
+david,East James,4909,38184,Active,6379,35,RNGD41248-FAKE,Active
+david,East James,4909,38184,Active,1153,36,HJHH344-FAKE,Active
+david,East James,4909,38184,Active,4507,37,LEP12-FAKE,Active
+david,East James,4909,38184,Active,9941,4,SIS649-FAKE,Active
+david,East James,4909,38184,Active,5107,40,VPHH5353-FAKE,Active
+david,East James,4909,38184,Active,5270,7,SVC33631-FAKE,Active
+david,East James,4909,38184,Active,8178,8,IZEH75141-FAKE,Active
+david,East James,4909,38184,Active,8242,9,NNO86-FAKE,Active
+david,East James,1978,38184,Active,4940,1,QZ45937-FAKE,Active
+david,East James,1978,38184,Active,1807,12,ROZO8-FAKE,Active
+david,East James,1978,38184,Active,6115,18,QZ45937-FAKE,Active
+david,East James,1978,38184,Active,8243,19,HJHH344-FAKE,Active
+david,East James,1978,38184,Active,2101,3,ROZO8-FAKE,Active
+david,East James,1978,38184,Active,1839,36,HJHH344-FAKE,Active
+david,East James,1978,38184,Active,5329,37,LEP12-FAKE,Active
+david,East James,1978,38184,Active,7149,40,VPHH5353-FAKE,Active
+david,East James,1978,38184,Active,9734,6,ROZO8-FAKE,Active
+david,East James,1978,38184,Active,2009,9,ROZO8-FAKE,Active
+david,East James,1309,38184,Active,2925,1,QZ45937-FAKE,Active
+david,East James,1309,38184,Active,8516,12,XGM1471-FAKE,Active
+david,East James,1309,38184,Active,9870,15,MUI31-FAKE,Active
+david,East James,1309,38184,Active,1621,18,QZ45937-FAKE,Active
+david,East James,1309,38184,Active,7663,19,HJHH344-FAKE,Active
+david,East James,1309,38184,Active,8641,2,FCHP89722-FAKE,Active
+david,East James,1309,38184,Active,7942,36,HJHH344-FAKE,Active
+david,East James,1309,38184,Active,3436,37,LEP12-FAKE,Active
+david,East James,1309,38184,Active,8079,4,RXO76-FAKE,Active
+david,East James,1309,38184,Active,9290,40,VPHH5353-FAKE,Active
+david,East James,1309,38184,Active,5967,6,MUI31-FAKE,Active
+david,East James,1309,38184,Active,1907,9,MUI31-FAKE,Active
+david,East James,9229,38184,Active,2786,1,QZ45937-FAKE,Active
+david,East James,9229,38184,Active,1261,10,RXO76-FAKE,Active
+david,East James,9229,38184,Active,7763,12,MUI31-FAKE,Active
+david,East James,9229,38184,Active,1192,15,XGM1471-FAKE,Active
+david,East James,9229,38184,Active,7575,18,QZ45937-FAKE,Active
+david,East James,9229,38184,Active,1467,19,HJHH344-FAKE,Active
+david,East James,9229,38184,Active,1245,36,HJHH344-FAKE,Active
+david,East James,9229,38184,Active,5592,37,LEP12-FAKE,Active
+david,East James,9229,38184,Active,523,4,XGM1471-FAKE,Active
+david,East James,9229,38184,Active,345,6,XGM1471-FAKE,Active
+david,East James,9229,38184,Active,6895,8,XGM1471-FAKE,Active
+david,East James,816,38184,Active,2502,1,QZ45937-FAKE,Active
+david,East James,816,38184,Active,7612,12,ROZO8-FAKE,Active
+david,East James,816,38184,Active,6990,15,RXO76-FAKE,Active
+david,East James,816,38184,Active,8267,18,QZ45937-FAKE,Active
+david,East James,816,38184,Active,5755,19,HJHH344-FAKE,Active
+david,East James,816,38184,Active,6530,36,HJHH344-FAKE,Active
+david,East James,816,38184,Active,2960,37,LEP12-FAKE,Active
+david,East James,816,38184,Active,2368,4,RXO76-FAKE,Active
+david,East James,816,38184,Active,5821,6,ROZO8-FAKE,Active
+david,East James,816,38184,Active,9369,9,ROZO8-FAKE,Active
+david,East James,8385,38184,Active,5802,1,QZ45937-FAKE,Active
+david,East James,8385,38184,Active,7591,10,RXO76-FAKE,Active
+david,East James,8385,38184,Active,8950,18,QZ45937-FAKE,Active
+david,East James,8385,38184,Active,5771,19,HJHH344-FAKE,Active
+david,East James,8385,38184,Active,6645,36,HJHH344-FAKE,Active
+david,East James,8385,38184,Active,4806,37,LEP12-FAKE,Active
+david,East James,8385,38184,Active,5684,4,RXO76-FAKE,Active
+david,East James,8385,38184,Active,6040,40,VPHH5353-FAKE,Active
+david,East James,1990,38184,Active,2077,1,QZ45937-FAKE,Active
+david,East James,1990,38184,Active,3017,12,ROZO8-FAKE,Active
+david,East James,1990,38184,Active,4544,16,RXO76-FAKE,Active
+david,East James,1990,38184,Active,4863,18,QZ45937-FAKE,Active
+david,East James,1990,38184,Active,8128,19,HJHH344-FAKE,Active
+david,East James,1990,38184,Active,2645,36,HJHH344-FAKE,Active
+david,East James,1990,38184,Active,7008,37,LEP12-FAKE,Active
+david,East James,1990,38184,Active,2179,4,RXO76-FAKE,Active
+david,East James,1990,38184,Active,1147,6,ROZO8-FAKE,Active
+david,East James,1990,38184,Active,6245,9,DCWS5846-FAKE,Active
+david,East James,2881,38184,Active,9271,1,QZ45937-FAKE,Active
+david,East James,2881,38184,Active,112,12,XGM1471-FAKE,Active
+david,East James,2881,38184,Active,2969,15,RXO76-FAKE,Active
+david,East James,2881,38184,Active,7277,18,QZ45937-FAKE,Active
+david,East James,2881,38184,Active,2955,19,HJHH344-FAKE,Active
+david,East James,2881,38184,Active,2453,36,HJHH344-FAKE,Active
+david,East James,2881,38184,Active,8973,37,LEP12-FAKE,Active
+david,East James,1344,38184,Active,7777,1,QZ45937-FAKE,Active
+david,East James,1344,38184,Active,4744,10,DCWS5846-FAKE,Active
+david,East James,1344,38184,Active,4615,12,DCWS5846-FAKE,Active
+david,East James,1344,38184,Active,1398,18,QZ45937-FAKE,Active
+david,East James,1344,38184,Active,4980,19,HJHH344-FAKE,Active
+david,East James,1344,38184,Active,2460,36,HJHH344-FAKE,Active
+david,East James,1344,38184,Active,7244,37,LEP12-FAKE,Active
+david,East James,1344,38184,Active,9428,8,DCWS5846-FAKE,Active
+david,East James,9567,38184,Active,8506,1,QZ45937-FAKE,Active
+david,East James,9567,38184,Active,6047,12,XGM1471-FAKE,Active
+david,East James,9567,38184,Active,8465,14,DCWS5846-FAKE,Active
+david,East James,9567,38184,Active,3652,18,QZ45937-FAKE,Active
+david,East James,9567,38184,Active,780,19,HJHH344-FAKE,Active
+david,East James,9567,38184,Active,6383,36,HJHH344-FAKE,Active
+david,East James,9567,38184,Active,1017,37,LEP12-FAKE,Active
+david,East James,9567,38184,Active,8431,4,DCWS5846-FAKE,Active
+david,East James,9567,38184,Active,382,6,DCWS5846-FAKE,Active
+david,East James,9567,38184,Active,4293,8,XGM1471-FAKE,Active
+david,East James,3515,38184,Active,5281,1,QZ45937-FAKE,Active
+david,East James,3515,38184,Active,1421,10,RXO76-FAKE,Active
+david,East James,3515,38184,Active,3601,12,DCWS5846-FAKE,Active
+david,East James,3515,38184,Active,2119,14,DCWS5846-FAKE,Active
+david,East James,3515,38184,Active,9525,18,QZ45937-FAKE,Active
+david,East James,3515,38184,Active,7552,19,HJHH344-FAKE,Active
+david,East James,3515,38184,Active,4378,35,VB984-FAKE,Active
+david,East James,3515,38184,Active,683,36,HJHH344-FAKE,Active
+david,East James,3515,38184,Active,9553,37,LEP12-FAKE,Active
+david,East James,3515,38184,Active,8594,4,RXO76-FAKE,Active
+david,East James,3515,38184,Active,2564,6,DCWS5846-FAKE,Active
+david,East James,5935,38184,Active,9634,1,QZ45937-FAKE,Active
+david,East James,5935,38184,Active,8716,12,XGM1471-FAKE,Active
+david,East James,5935,38184,Active,1708,14,DCWS5846-FAKE,Active
+david,East James,5935,38184,Active,9255,18,QZ45937-FAKE,Active
+david,East James,5935,38184,Active,8006,19,HJHH344-FAKE,Active
+david,East James,5935,38184,Active,3435,36,HJHH344-FAKE,Active
+david,East James,5935,38184,Active,6396,37,LEP12-FAKE,Active
+david,East James,5935,38184,Active,4182,4,DCWS5846-FAKE,Active
+david,East James,5935,38184,Active,656,6,DCWS5846-FAKE,Active
+david,East James,5935,38184,Active,4620,8,DCWS5846-FAKE,Active
+david,East James,482,38184,Active,3884,1,QZ45937-FAKE,Active
+david,East James,482,38184,Active,7201,12,JUES74933-FAKE,Active
+david,East James,482,38184,Active,6142,13,JUES74933-FAKE,Active
+david,East James,482,38184,Active,4494,17,AZB7-FAKE,Active
+david,East James,482,38184,Active,5361,18,QZ45937-FAKE,Active
+david,East James,482,38184,Active,5600,19,HJHH344-FAKE,Active
+david,East James,482,38184,Active,7240,2,SVC33631-FAKE,Active
+david,East James,482,38184,Active,9400,3,IZEH75141-FAKE,Active
+david,East James,482,38184,Active,9024,36,HJHH344-FAKE,Active
+david,East James,482,38184,Active,7613,37,LEP12-FAKE,Active
+david,East James,482,38184,Active,3539,4,SIS649-FAKE,Active
+david,East James,482,38184,Active,5951,40,VPHH5353-FAKE,Active
+david,East James,482,38184,Active,9896,7,SVC33631-FAKE,Active
+david,East James,482,38184,Active,9795,8,IZEH75141-FAKE,Active
+david,East James,482,38184,Active,2389,9,NNO86-FAKE,Active
+david,East James,1013,38184,Active,2920,1,QZ45937-FAKE,Active
+david,East James,1013,38184,Active,7692,10,DCWS5846-FAKE,Active
+david,East James,1013,38184,Active,8919,12,DCWS5846-FAKE,Active
+david,East James,1013,38184,Active,1563,14,DCWS5846-FAKE,Active
+david,East James,1013,38184,Active,9396,18,QZ45937-FAKE,Active
+david,East James,1013,38184,Active,8324,19,HJHH344-FAKE,Active
+david,East James,1013,38184,Active,4275,36,HJHH344-FAKE,Active
+david,East James,1013,38184,Active,8411,37,LEP12-FAKE,Active
+david,East James,1013,38184,Active,4398,4,DCWS5846-FAKE,Active
+david,East James,1013,38184,Active,7267,6,DCWS5846-FAKE,Active
+david,East James,1013,38184,Active,1868,8,DCWS5846-FAKE,Active
+david,East James,9792,38184,Active,8227,1,QZ45937-FAKE,Active
+david,East James,9792,38184,Active,2380,10,RXO76-FAKE,Active
+david,East James,9792,38184,Active,5528,12,DCWS5846-FAKE,Active
+david,East James,9792,38184,Active,8264,14,DCWS5846-FAKE,Active
+david,East James,9792,38184,Active,3418,18,QZ45937-FAKE,Active
+david,East James,9792,38184,Active,9468,19,HJHH344-FAKE,Active
+david,East James,9792,38184,Active,6270,36,HJHH344-FAKE,Active
+david,East James,9792,38184,Active,5145,37,LEP12-FAKE,Active
+david,East James,9792,38184,Active,615,4,DCWS5846-FAKE,Active
+david,East James,9792,38184,Active,9450,6,DCWS5846-FAKE,Active
+david,East James,3852,38184,Active,9760,1,QZ45937-FAKE,Active
+david,East James,3852,38184,Active,6687,10,RXO76-FAKE,Active
+david,East James,3852,38184,Active,2622,14,ROZO8-FAKE,Active
+david,East James,3852,38184,Active,646,18,QZ45937-FAKE,Active
+david,East James,3852,38184,Active,7829,19,HJHH344-FAKE,Active
+david,East James,3852,38184,Active,9788,36,HJHH344-FAKE,Active
+david,East James,3852,38184,Active,9649,37,LEP12-FAKE,Active
+david,East James,3852,38184,Active,1370,4,DCWS5846-FAKE,Active
+david,East James,3852,38184,Active,3412,8,DCWS5846-FAKE,Active
+david,East James,466,38184,Active,8839,1,QZ45937-FAKE,Active
+david,East James,466,38184,Active,2707,12,DCWS5846-FAKE,Active
+david,East James,466,38184,Active,1758,14,UT113-FAKE,Active
+david,East James,466,38184,Active,9125,3,XGM1471-FAKE,Active
+david,East James,466,38184,Active,439,5,UT113-FAKE,Active
+david,East James,466,38184,Active,301,7,DCWS5846-FAKE,Active
+david,East James,466,38184,Active,7002,9,ROZO8-FAKE,Active
+david,East James,2756,38184,Active,5103,1,QZ45937-FAKE,Active
+david,East James,2756,38184,Active,3682,10,DCWS5846-FAKE,Active
+david,East James,2756,38184,Active,5750,12,DCWS5846-FAKE,Active
+david,East James,2756,38184,Active,2087,14,DCWS5846-FAKE,Active
+david,East James,2756,38184,Active,4732,18,QZ45937-FAKE,Active
+david,East James,2756,38184,Active,5285,19,HJHH344-FAKE,Active
+david,East James,2756,38184,Active,8845,36,HJHH344-FAKE,Active
+david,East James,2756,38184,Active,4120,37,LEP12-FAKE,Active
+david,East James,2756,38184,Active,6291,6,DCWS5846-FAKE,Active
+david,East James,2756,38184,Active,6325,8,DCWS5846-FAKE,Active
+david,East James,1580,38184,Active,9604,1,QZ45937-FAKE,Active
+david,East James,1580,38184,Active,3424,14,DCWS5846-FAKE,Active
+david,East James,1580,38184,Active,938,18,QZ45937-FAKE,Active
+david,East James,1580,38184,Active,4562,19,HJHH344-FAKE,Active
+david,East James,1580,38184,Active,8400,36,HJHH344-FAKE,Active
+david,East James,1580,38184,Active,8678,37,LEP12-FAKE,Active
+david,East James,1580,38184,Active,9234,4,DCWS5846-FAKE,Active
+david,East James,1580,38184,Active,7772,6,DCWS5846-FAKE,Active
+david,East James,8776,38184,Active,4608,1,QZ45937-FAKE,Active
+david,East James,8776,38184,Active,3303,10,DCWS5846-FAKE,Active
+david,East James,8776,38184,Active,4946,12,XGM1471-FAKE,Active
+david,East James,8776,38184,Active,7903,14,XGM1471-FAKE,Active
+david,East James,8776,38184,Active,9454,18,QZ45937-FAKE,Active
+david,East James,8776,38184,Active,2258,19,HJHH344-FAKE,Active
+david,East James,8776,38184,Active,7832,2,MMJ99745-FAKE,Active
+david,East James,8776,38184,Active,4651,36,HJHH344-FAKE,Active
+david,East James,8776,38184,Active,941,37,LEP12-FAKE,Active
+david,East James,8776,38184,Active,3859,6,XGM1471-FAKE,Active
+david,East James,8776,38184,Active,7906,8,UT113-FAKE,Active
+holland-edwards,East James,7895,05001,Active,4229,1,OD22-FAKE,Active
+holland-edwards,East James,7895,05001,Active,8574,10,OD22-FAKE,Active
+holland-edwards,East James,7895,05001,Active,9579,11,UC14434-FAKE,Active
+holland-edwards,East James,7895,05001,Active,3908,12,BO8368-FAKE,Active
+holland-edwards,East James,7895,05001,Active,1921,13,OXX2543-FAKE,Active
+holland-edwards,East James,7895,05001,Active,6383,14,OXX2543-FAKE,Active
+holland-edwards,East James,7895,05001,Active,7217,15,LEQC22-FAKE,Active
+holland-edwards,East James,7895,05001,Active,2421,16,OD22-FAKE,Active
+holland-edwards,East James,7895,05001,Active,2711,2,OD22-FAKE,Active
+holland-edwards,East James,7895,05001,Active,5932,3,LEQC22-FAKE,Active
+holland-edwards,East James,7895,05001,Active,7621,33,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,2189,34,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,3022,35,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,9560,36,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,3057,38,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,777,39,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,9611,4,OXX2543-FAKE,Active
+holland-edwards,East James,7895,05001,Active,2706,40,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,5233,41,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,727,42,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,7506,43,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,6302,44,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,1040,45,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,3485,46,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,8477,47,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,6883,48,NYB1-FAKE,Active
+holland-edwards,East James,7895,05001,Active,1454,5,BO8368-FAKE,Active
+holland-edwards,East James,7895,05001,Active,4891,6,UC14434-FAKE,Active
+holland-edwards,East James,7895,05001,Active,2690,7,UC14434-FAKE,Active
+holland-edwards,East James,7895,05001,Active,5849,71,OFA4-FAKE,Active
+holland-edwards,East James,7895,05001,Active,960,72,OFA4-FAKE,Active
+holland-edwards,East James,7895,05001,Active,483,73,LJ37369-FAKE,Active
+holland-edwards,East James,7895,05001,Active,6595,75,LJ37369-FAKE,Active
+holland-edwards,East James,7895,05001,Active,4707,8,BO8368-FAKE,Active
+holland-edwards,East James,7895,05001,Active,9169,9,OD22-FAKE,Active
+holland-edwards,East James,7895,05001,Active,1106,91,WLNI52157-FAKE,Active
+holland-edwards,East James,7895,05001,Active,6139,92,LEP12-FAKE,Active
+holland-edwards,East James,7895,05001,Active,7073,93,LEP12-FAKE,Active
+holland-edwards,East James,7895,05001,Active,8196,94,WLNI52157-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,3277,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,5041,11,XFNJ5272-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,4484,12,SVC33631-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,8165,13,IZEH75141-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,6083,14,NNO86-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,3930,17,AZB7-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,4027,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,6091,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,6727,2,SVC33631-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,9047,3,IZEH75141-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,2656,35,AZB7-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,6768,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,2168,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,2555,4,SIS649-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,5135,40,VPHH5353-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,4101,6,XFNJ5272-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,741,7,SVC33631-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,586,8,IZEH75141-FAKE,Active
+davis-ochoa,Nelsonburgh,1694,38184,Active,8873,9,SIS649-FAKE,Active
+davis-ochoa,Nelsonburgh,6587,38184,Active,963,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,6587,38184,Active,6816,12,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,6587,38184,Active,4115,15,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,6587,38184,Active,6532,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,6587,38184,Active,7468,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,6587,38184,Active,498,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,6587,38184,Active,5325,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,6587,38184,Active,7741,40,VPHH5353-FAKE,Active
+davis-ochoa,Nelsonburgh,6587,38184,Active,1287,6,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,6587,38184,Active,7651,9,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,8927,38184,Active,9098,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,8927,38184,Active,674,15,RXO76-FAKE,Active
+davis-ochoa,Nelsonburgh,8927,38184,Active,2422,17,FCHP89722-FAKE,Active
+davis-ochoa,Nelsonburgh,8927,38184,Active,9434,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,8927,38184,Active,3271,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,8927,38184,Active,3647,2,VGEZ5291-FAKE,Active
+davis-ochoa,Nelsonburgh,8927,38184,Active,2852,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,8927,38184,Active,7128,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,8927,38184,Active,1853,40,VPHH5353-FAKE,Active
+davis-ochoa,Nelsonburgh,8927,38184,Active,2686,6,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,1722,38184,Active,2433,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,1722,38184,Active,6100,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,1722,38184,Active,2876,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,1722,38184,Active,3770,2,FCHP89722-FAKE,Active
+davis-ochoa,Nelsonburgh,1722,38184,Active,8050,3,MUI31-FAKE,Active
+davis-ochoa,Nelsonburgh,1722,38184,Active,6717,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,1722,38184,Active,2681,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,1722,38184,Active,3402,6,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,1722,38184,Active,9258,9,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,2138,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,3719,12,JUES74933-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,7405,13,JUES74933-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,2384,14,JUES74933-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,5292,15,JUES74933-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,2234,16,JUES74933-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,7465,17,WX78-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,1281,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,8205,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,6498,2,IZEH75141-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,8266,3,IZEH75141-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,9004,35,AZB7-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,5236,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,3481,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,2804,4,SIS649-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,5882,40,VPHH5353-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,5172,6,XFNJ5272-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,6104,7,SVC33631-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,4754,8,IZEH75141-FAKE,Active
+davis-ochoa,Nelsonburgh,2567,38184,Active,4528,9,NNO86-FAKE,Active
+davis-ochoa,Nelsonburgh,5974,38184,Active,9059,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,5974,38184,Active,8586,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,5974,38184,Active,9730,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,5974,38184,Active,5223,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,5974,38184,Active,8125,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,5974,38184,Active,2050,4,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,5974,38184,Active,7879,9,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,1316,38184,Active,6106,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,1316,38184,Active,2562,12,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,1316,38184,Active,7175,15,RXO76-FAKE,Active
+davis-ochoa,Nelsonburgh,1316,38184,Active,2106,18,QZ45937-FAKE,Planned
+davis-ochoa,Nelsonburgh,1316,38184,Active,5226,19,HJHH344-FAKE,Planned
+davis-ochoa,Nelsonburgh,1316,38184,Active,2369,2,VGEZ5291-FAKE,Active
+davis-ochoa,Nelsonburgh,1316,38184,Active,1255,3,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,1316,38184,Active,248,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,1316,38184,Active,9763,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,1316,38184,Active,5273,6,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,1316,38184,Active,6247,9,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,3054,38184,Active,5732,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,3054,38184,Active,5330,12,XGM1471-FAKE,Active
+davis-ochoa,Nelsonburgh,3054,38184,Active,9420,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,3054,38184,Active,6446,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,3054,38184,Active,7709,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,3054,38184,Active,962,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,3054,38184,Active,6627,9,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,1464,38184,Active,7724,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,1464,38184,Active,9810,12,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,1464,38184,Active,6098,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,1464,38184,Active,9813,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,1464,38184,Active,6243,2,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,1464,38184,Active,296,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,1464,38184,Active,1238,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,1464,38184,Active,1642,4,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,1464,38184,Active,1888,6,MUI31-FAKE,Active
+davis-ochoa,Nelsonburgh,1464,38184,Active,3783,9,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,3792,38184,Active,8564,1,QZ45937-FAKE,Planned
+davis-ochoa,Nelsonburgh,3792,38184,Active,2664,12,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,3792,38184,Active,5236,14,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,3792,38184,Active,7760,17,FCHP89722-FAKE,Active
+davis-ochoa,Nelsonburgh,3792,38184,Active,8435,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,3792,38184,Active,3178,19,HJHH344-FAKE,Planned
+davis-ochoa,Nelsonburgh,3792,38184,Active,7378,2,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,3792,38184,Active,6446,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,3792,38184,Active,3055,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,3792,38184,Active,9156,4,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,4718,38184,Active,8079,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,4718,38184,Active,9420,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,4718,38184,Active,6194,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,4718,38184,Active,8459,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,4718,38184,Active,5381,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,8959,38184,Active,9649,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,8959,38184,Active,9978,10,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,8959,38184,Active,8598,12,RXO76-FAKE,Active
+davis-ochoa,Nelsonburgh,8959,38184,Active,3444,14,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,8959,38184,Active,2152,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,8959,38184,Active,6160,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,8959,38184,Active,2866,2,ZJI932-FAKE,Active
+davis-ochoa,Nelsonburgh,8959,38184,Active,1653,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,8959,38184,Active,4335,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,8959,38184,Active,7213,4,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,8959,38184,Active,7563,6,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,8959,38184,Active,3056,8,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,2503,38184,Active,413,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,2503,38184,Active,48,10,RXO76-FAKE,Active
+davis-ochoa,Nelsonburgh,2503,38184,Active,9930,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,2503,38184,Active,2860,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,2503,38184,Active,9070,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,2503,38184,Active,2886,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,2503,38184,Active,5214,6,XGM1471-FAKE,Active
+davis-ochoa,Nelsonburgh,2503,38184,Active,2138,8,RXO76-FAKE,Active
+davis-ochoa,Nelsonburgh,217,38184,Active,4398,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,217,38184,Active,2626,10,RXO76-FAKE,Active
+davis-ochoa,Nelsonburgh,217,38184,Active,3628,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,217,38184,Active,1309,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,217,38184,Active,7136,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,217,38184,Active,3340,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,6271,38184,Active,9279,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,6271,38184,Active,4987,10,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,6271,38184,Active,3931,14,XGM1471-FAKE,Active
+davis-ochoa,Nelsonburgh,6271,38184,Active,1831,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,6271,38184,Active,9940,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,6271,38184,Active,318,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,6271,38184,Active,8623,37,LEP12-FAKE,Active
+davis-ochoa,Nelsonburgh,6271,38184,Active,3240,4,XGM1471-FAKE,Active
+davis-ochoa,Nelsonburgh,6271,38184,Active,7627,6,UT113-FAKE,Active
+davis-ochoa,Nelsonburgh,6271,38184,Active,2627,8,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,3230,38184,Active,7839,1,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,3230,38184,Active,6063,10,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,3230,38184,Active,3515,12,DCWS5846-FAKE,Active
+davis-ochoa,Nelsonburgh,3230,38184,Active,796,14,ROZO8-FAKE,Active
+davis-ochoa,Nelsonburgh,3230,38184,Active,738,18,QZ45937-FAKE,Active
+davis-ochoa,Nelsonburgh,3230,38184,Active,8884,19,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,3230,38184,Active,93,36,HJHH344-FAKE,Active
+davis-ochoa,Nelsonburgh,3230,38184,Active,4909,37,LEP12-FAKE,Active
